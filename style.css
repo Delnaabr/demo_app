@@ -1,0 +1,79 @@
+ 
+body{  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color: rgb(8, 2, 15);  
+  padding: 100px;
+  color: white;
+  
+}  
+.container {  
+    padding: 150px;  
+    background-image: url("https://static.vecteezy.com/system/resources/previews/004/941/847/original/cosmetic-background-for-product-branding-and-packaging-presentation-geometry-form-circle-molding-on-podium-stage-with-shadow-of-leaf-background-design-eps10-vector.jpg");  
+    border-radius: 10%;
+    
+  }  
+
+
+div.form{
+  display: block;
+  text-align: center;
+}
+
+.form{
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+  padding: 100px;
+  background-image: url("https://kinsta.com/wp-content/uploads/2019/06/wordpress-login-url.jpg");
+  border-radius: 20%;
+  color: #0a0a0a;
+  width: 500px; 
+}
+  
+input[type=text], input[type=password], textarea {  
+  width: 100%;  
+  padding: 15px;  
+  margin: 5px 0 22px 0;  
+  display: inline-block;  
+  border: none;  
+  background: #f1f1f1;  
+}  
+ 
+ 
+hr {  
+  border: 2px solid #0a0a0a;  
+   
+}  
+.registerbtn {  
+  background-color: #0d0e0d;  
+  color: rgb(3, 119, 28);  
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  width: 50%;  
+}
+
+.cancelbtn{
+  background-color: rgb(5, 5, 5);
+  color: rgb(184, 18, 18);
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  width: 50%; 
+
+}
+.logbtn{
+  background-color: #0d0e0d;
+  color: rgb(190, 221, 12);
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  width: 50%;
+
+}
+
